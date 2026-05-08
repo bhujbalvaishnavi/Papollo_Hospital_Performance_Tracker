@@ -152,7 +152,6 @@ Each visual element is designed to present specific insights:
 
 ## **10. Screenshots**
 
-> *Add dashboard screenshots below for better visualization*
 
 ![Dashboard Screenshot](https://github.com/bhujbalvaishnavi/Papollo_Hospital_Performance_Tracker/blob/main/Shapshot_of_%20Papolla_Healtcare.png)
 
